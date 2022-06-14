@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 300px;
+    
+}
+li{
+    display: inline-block;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;  
+}
+.div1{
+    color: blue;
+    font-size: 100px;
+}
+.div2{
+    color: red;
+    font-size: 100px;
+}
+.div3{
+    color: yellow;
+    font-size: 100px;
+}
+.div4{
+    color: blue;
+    font-size: 100px;
+}
+.div5{
+    color:green ;
+    font-size: 100px;
+}
+.div6{
+    color: red;
+    font-size: 100px;
+}
+.content{
+    border: 1px solid black;
+    margin-top: 50px;
+    /* padding-left: 650px; */
+}
+input{
+    font-size: 120%;
+    color: white;
+    border: 1px solid green;
+    border-radius: 40px;
+    width: 40%;
+    height: 60px;
+    margin-left: 650px;
+    padding-left: 50px;
+}
+/* .fa-magnifying{ 
+    border: 1px solid red;
+    height: 50px;
+}
+.fa-microphone{
+    border: 1px solid black;
+     margin-right: 300px;
+}*/
+
+.fa-magnifying-glass{
+    position: absolute;
+    left: 670px;
+    top: 505px;
+}
+.fa-microphone{
+    position: absolute;
+    right: 610px;
+    top: 505px;
+}
+
