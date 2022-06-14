@@ -5,7 +5,7 @@
 }
 
 ul{
-    border: 1px solid black;
+/*     border: 1px solid black; */
     text-align: center;
     margin-top: 300px;
     
@@ -41,7 +41,7 @@ li{
     font-size: 100px;
 }
 .content{
-    border: 1px solid black;
+/*     border: 1px solid black; */
     margin-top: 50px;
     /* padding-left: 650px; */
 }
